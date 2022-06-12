@@ -1,2 +1,3 @@
 Hello , this is my first file I am learing git and git commands from youtube edureca 
-
+I am making changes in this file and Adding new lines
+To exit the Vi editor type 
