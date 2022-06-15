@@ -1,3 +1,5 @@
 Hello , this is my first file I am learing git and git commands from youtube edureca 
 I am making changes in this file and Adding new lines
 To exit the Vi editor type 
+I am making the changes in this file and I am on the website git hub I have already completed 1  hours and left with the 4hours
+This is the practise section if any body wants to join me in this session then you can join this session
